@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">hypedWorld</string>
+    <string name="mapbox_access_token" tools:ignore="Typos">pk.eyJ1IjoiaHlwZWRzdHVkaW8iLCJhIjoiY2xkYXh5czloMDZwYTNwcW9qY2V4YnlsNSJ9.xxtpK0BKvND22f9noo9XKg</string>
+</resources>
